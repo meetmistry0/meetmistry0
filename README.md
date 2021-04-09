@@ -1,6 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/meetmistry0/meetmistry0/main/assets/wave.gif" width="30px">
 
-My name is Meet Mistry You can find me on [LinkedIn](https://www.linkedin.com/in/meet-mistry-129254201/)
+My name is Meet Mistry You can find me on ![]()
+
+<!-- (https://www.linkedin.com/in/meet-mistry-129254201/) -->
 
 ## &#x270d; Blog & Writing
 
