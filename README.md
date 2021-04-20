@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/meetmistry0/meetmistry0/main/assets/wave.gif" width="30px">
 
-I'm Meet Mistry. You can find me on [LinkedIn](https://www.linkedin.com/in/meet-mistry-129254201/). You can also visit my [website] by going to this address `3.21.49.78`
+I'm Meet Mistry. You can find me on [LinkedIn](https://www.linkedin.com/in/meet-mistry-129254201/). You can also visit my website by going to this address `3.21.49.78`
 
 ## &#x270d; Blog & Writing
 
