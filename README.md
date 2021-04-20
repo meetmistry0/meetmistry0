@@ -19,12 +19,16 @@ Apart from coding, I have a blog coming soon.
 <br />
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&color=000000)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=a8b9cc)
+<br />
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+
 <br />
 
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
