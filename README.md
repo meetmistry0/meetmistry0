@@ -2,7 +2,7 @@
 
 I'm Meet Mistry. You can find me on [LinkedIn](https://www.linkedin.com/in/meet-mistry-129254201/).
 
-## &#x270d; Blog & Writing
+<!-- ## &#x270d; Blog & Writing
 
 Apart from coding, I have a blog coming soon.
 
@@ -33,4 +33,4 @@ Apart from coding, I have a blog coming soon.
 
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats -->
