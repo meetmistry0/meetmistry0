@@ -31,6 +31,4 @@ Apart from coding, I have a blog coming soon.
 
 <br />
 
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-
-## &#x1f4c8; GitHub Stats -->
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&color=232F3E) -->
