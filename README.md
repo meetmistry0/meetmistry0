@@ -15,7 +15,7 @@ Apart from coding, I have a blog coming soon.
 <br />
 
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&color=1793D1)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&color=dfc428)
+![](https://img.shields.io/badge/Shell-fish-informational?style=flat&logo=gnu-bash&color=dfc428)
 <br />
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
