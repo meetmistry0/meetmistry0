@@ -24,7 +24,7 @@ Apart from coding, I have a blog on https://blog919.netlify.app/
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
 <br />
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Gatsby-informational?style=flat&logo=gatsby&color=663399)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
