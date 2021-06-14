@@ -26,4 +26,7 @@ Apart from coding, I have a blog on https://blog919.netlify.app/
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
+![](https://img.shields.io/badge/Framework-Gatsby-informational?style=flat&logo=gatsby&color=663399)
+
+#663399
 <br />
