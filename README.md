@@ -4,7 +4,7 @@ I'm Meet Mistry. You can find me on [LinkedIn](https://www.linkedin.com/in/meet-
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I have a blog coming soon.
+Apart from coding, I have a blog on 
 
 ## 🔧 Technologies & Tools
 
