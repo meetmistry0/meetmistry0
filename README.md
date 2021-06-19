@@ -30,3 +30,6 @@ Apart from coding, I have a blog on https://blog919.netlify.app/
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
 <br />
+
+## Github Stats
+[![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetmistry0)](https://github.com/anuraghazra/github-readme-stats)
