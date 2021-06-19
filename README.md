@@ -32,4 +32,4 @@ Apart from coding, I have a blog on https://blog919.netlify.app/
 <br />
 
 ## Github Stats
-[![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetmistry0)](https://github.com/anuraghazra/github-readme-stats)
+[![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetmistry0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
