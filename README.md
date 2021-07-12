@@ -4,7 +4,7 @@ I'm Meet Mistry. You can find me on [LinkedIn](https://www.linkedin.com/in/meet-
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I have a blog on https://blog919.netlify.app/
+Apart from coding, I have a blog on https://rectify.netlify.app/
 
 ## 🔧 Technologies & Tools
 
