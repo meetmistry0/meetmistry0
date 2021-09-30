@@ -1,7 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/meetmistry0/meetmistry0/main/assets/wave.gif" width="30px">
 
-I'm Meet Mistry. You can find me on [Twitter](https://twitter.com/meetmistry0) and [LinkedIn](https://www.linkedin.com/in/meet-mistry-129254201/)
-
 ## &#x270d; Blog & Writing
 
 Apart from coding, I have a blog called [rectify](https://rectify.netlify.app/)
