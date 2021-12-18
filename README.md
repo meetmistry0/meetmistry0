@@ -2,4 +2,6 @@
 
 Check out my [website](https://meetmistry.netlify.app/)
 
-<img src="https://raw.githubusercontent.com/meetmistry0/meetmistry0/main/assets/ff.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meetmistry0/meetmistry0/main/assets/ff.gif"/>
+</p>
